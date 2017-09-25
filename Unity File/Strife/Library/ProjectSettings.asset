@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
+<<<<<<< HEAD
   productGUID: 29ecad765390297488d7ad3045421d74
+=======
+  productGUID: ea377b3a6c140ee438cd375638c34f11
+>>>>>>> master
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -583,12 +587,22 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
+<<<<<<< HEAD
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 
   projectName: 
   organizationId: 
+=======
+  cloudServicesEnabled:
+    UNet: 1
+  facebookSdkVersion: 7.9.4
+  apiCompatibilityLevel: 2
+  cloudProjectId: b022ca5f-84fb-4ac0-babc-e987c44da376
+  projectName: Strife
+  organizationId: karthik-raj-5565318
+>>>>>>> master
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

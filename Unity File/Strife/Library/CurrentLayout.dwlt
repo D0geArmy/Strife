@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 8
     y: 50
     width: 1584
@@ -21,6 +22,16 @@ MonoBehaviour:
   m_Title: 
   m_RootView: {fileID: 6}
   m_MinSize: {x: 950, y: 300}
+=======
+    x: 0
+    y: 257
+    width: 1600
+    height: 828
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 392}
+>>>>>>> master
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -36,10 +47,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 958
     y: 0
     width: 267
     height: 762
+=======
+    x: 968
+    y: 0
+    width: 270
+    height: 778
+>>>>>>> master
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
@@ -66,8 +84,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1584
     height: 762
+=======
+    width: 1600
+    height: 778
+>>>>>>> master
   m_MinSize: {x: 683, y: 342}
   m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
@@ -86,10 +109,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1225
     y: 0
     width: 359
     height: 762
+=======
+    x: 1238
+    y: 0
+    width: 362
+    height: 778
+>>>>>>> master
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 11}
@@ -114,9 +144,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 475
     width: 958
     height: 287
+=======
+    y: 485
+    width: 968
+    height: 293
+>>>>>>> master
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
@@ -144,8 +180,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1584
     height: 812
+=======
+    width: 1600
+    height: 828
+>>>>>>> master
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -164,7 +205,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1584
+=======
+    width: 1600
+>>>>>>> master
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -184,8 +229,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 792
     width: 1584
+=======
+    y: 808
+    width: 1600
+>>>>>>> master
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -207,12 +257,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 958
     height: 762
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
   controlID: 48
+=======
+    width: 968
+    height: 778
+  m_MinSize: {x: 202, y: 342}
+  m_MaxSize: {x: 4002, y: 8042}
+  vertical: 1
+  controlID: 24
+>>>>>>> master
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,8 +288,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 958
     height: 475
+=======
+    width: 968
+    height: 485
+>>>>>>> master
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
@@ -261,10 +325,17 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1235
     y: 99
     width: 357
     height: 741
+=======
+    x: 1240
+    y: 306
+    width: 360
+    height: 757
+>>>>>>> master
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
@@ -531,15 +602,26 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 968
     y: 99
     width: 263
     height: 741
+=======
+    x: 970
+    y: 306
+    width: 266
+    height: 757
+>>>>>>> master
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 6efbffff00000000
+=======
+    m_ExpandedIDs: 6cfbffff00000000
+>>>>>>> master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -584,10 +666,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 8
     y: 99
     width: 956
     height: 454
+=======
+    x: 0
+    y: 306
+    width: 966
+    height: 464
+>>>>>>> master
   m_SceneLighting: 1
   lastFramingTime: 1626.4576562604234
   m_2DMode: 0
@@ -734,7 +823,14 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 8
     y: 574
     width: 956
     height: 266
+=======
+    x: 0
+    y: 791
+    width: 966
+    height: 272
+>>>>>>> master
